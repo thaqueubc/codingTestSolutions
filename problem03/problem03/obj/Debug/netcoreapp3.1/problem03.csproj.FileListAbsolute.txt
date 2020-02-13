@@ -1,0 +1,11 @@
+C:\Users\reyar\Desktop\Clevest Solution\problem03\problem03\bin\Debug\netcoreapp3.1\problem03.exe
+C:\Users\reyar\Desktop\Clevest Solution\problem03\problem03\bin\Debug\netcoreapp3.1\problem03.deps.json
+C:\Users\reyar\Desktop\Clevest Solution\problem03\problem03\bin\Debug\netcoreapp3.1\problem03.runtimeconfig.json
+C:\Users\reyar\Desktop\Clevest Solution\problem03\problem03\bin\Debug\netcoreapp3.1\problem03.runtimeconfig.dev.json
+C:\Users\reyar\Desktop\Clevest Solution\problem03\problem03\bin\Debug\netcoreapp3.1\problem03.dll
+C:\Users\reyar\Desktop\Clevest Solution\problem03\problem03\bin\Debug\netcoreapp3.1\problem03.pdb
+C:\Users\reyar\Desktop\Clevest Solution\problem03\problem03\obj\Debug\netcoreapp3.1\problem03.csprojAssemblyReference.cache
+C:\Users\reyar\Desktop\Clevest Solution\problem03\problem03\obj\Debug\netcoreapp3.1\problem03.AssemblyInfoInputs.cache
+C:\Users\reyar\Desktop\Clevest Solution\problem03\problem03\obj\Debug\netcoreapp3.1\problem03.AssemblyInfo.cs
+C:\Users\reyar\Desktop\Clevest Solution\problem03\problem03\obj\Debug\netcoreapp3.1\problem03.dll
+C:\Users\reyar\Desktop\Clevest Solution\problem03\problem03\obj\Debug\netcoreapp3.1\problem03.pdb

@@ -1,0 +1,10 @@
+C:\Users\reyar\Desktop\Clevest Solution\problem04\problem04\bin\Debug\netcoreapp2.2\problem04.deps.json
+C:\Users\reyar\Desktop\Clevest Solution\problem04\problem04\bin\Debug\netcoreapp2.2\problem04.runtimeconfig.json
+C:\Users\reyar\Desktop\Clevest Solution\problem04\problem04\bin\Debug\netcoreapp2.2\problem04.runtimeconfig.dev.json
+C:\Users\reyar\Desktop\Clevest Solution\problem04\problem04\bin\Debug\netcoreapp2.2\problem04.dll
+C:\Users\reyar\Desktop\Clevest Solution\problem04\problem04\bin\Debug\netcoreapp2.2\problem04.pdb
+C:\Users\reyar\Desktop\Clevest Solution\problem04\problem04\obj\Debug\netcoreapp2.2\problem04.AssemblyInfoInputs.cache
+C:\Users\reyar\Desktop\Clevest Solution\problem04\problem04\obj\Debug\netcoreapp2.2\problem04.AssemblyInfo.cs
+C:\Users\reyar\Desktop\Clevest Solution\problem04\problem04\obj\Debug\netcoreapp2.2\problem04.dll
+C:\Users\reyar\Desktop\Clevest Solution\problem04\problem04\obj\Debug\netcoreapp2.2\problem04.pdb
+C:\Users\reyar\Desktop\Clevest Solution\problem04\problem04\obj\Debug\netcoreapp2.2\problem04.csprojAssemblyReference.cache
